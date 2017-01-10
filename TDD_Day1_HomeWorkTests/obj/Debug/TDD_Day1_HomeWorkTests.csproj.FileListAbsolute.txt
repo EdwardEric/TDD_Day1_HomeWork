@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\bin\Debug\TDD_Day1_HomeWorkTests.dll
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\bin\Debug\TDD_Day1_HomeWorkTests.pdb
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\bin\Debug\ExpectedObjects.dll
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\bin\Debug\NSubstitute.dll
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\bin\Debug\TDD_Day1_HomeWork.dll
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\bin\Debug\TDD_Day1_HomeWork.pdb
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\bin\Debug\NSubstitute.xml
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\obj\Debug\TDD_Day1_HomeWorkTests.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\obj\Debug\TDD_Day1_HomeWorkTests.dll
+c:\users\user\documents\visual studio 2015\Projects\TDD_Day1_HomeWork\TDD_Day1_HomeWorkTests\obj\Debug\TDD_Day1_HomeWorkTests.pdb
